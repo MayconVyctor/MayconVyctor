@@ -38,8 +38,8 @@ Busco minha primeira oportunidade como **Desenvolvedor Back-end Júnior**, para 
 
 ## 📘 Certificações
 
-- `Golang do Zero` – Comunidade Dev (Stephanie Cardoso)  
-- `Git & GitHub Completo` – Comunidade Dev
+- `Golang do Zero` – Comunidade Dev Completo   
+- `Git & GitHub Completo` – Comunidade Dev Completo
 
 ---
 
