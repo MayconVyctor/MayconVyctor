@@ -1,4 +1,74 @@
-## Hi there 👋
+# 👋 Olá, eu sou Maycon Vyctor Rodrigues Costa
+
+🎯 **Desenvolvedor Back-end | Entusiasta de Golang | Construindo APIs e aprendendo todos os dias**
+
+---
+
+## 🧑‍💻 Sobre mim
+
+Sou um desenvolvedor back-end que fez transição de carreira após atuar como vendedor/atendente, onde desenvolvi fortes habilidades de **comunicação** e **resolução de problemas**.
+
+Hoje, foco em desenvolver **APIs RESTful** utilizando **Golang**, com atenção às boas práticas, performance e organização do código.
+
+Busco minha primeira oportunidade como **Desenvolvedor Back-end Júnior**, para crescer e contribuir com projetos relevantes.
+
+---
+
+## 🚀 Tecnologias
+
+**Linguagens:**
+- Go (Golang)
+
+**Frameworks e Ferramentas:**
+- Gin
+- PostgreSQL
+- Docker
+- DBeaver
+- Git & GitHub
+
+---
+
+## 📂 Projetos
+
+### 🔹 [API Products](https://github.com/MayconVyctor/API-products)  
+> API RESTful para gerenciamento de produtos, desenvolvida com **Golang**, **Gin**, **PostgreSQL** e **Docker**.  
+> Possui rotas completas para operações CRUD e controle de estoque.
+
+---
+
+## 📘 Certificações
+
+- `Golang do Zero` – Comunidade Dev (Stephanie Cardoso)  
+- `Git & GitHub Completo` – Comunidade Dev
+
+---
+
+## 💡 Soft Skills
+
+- Boa comunicação
+- Raciocínio lógico e resolução de problemas
+- Proatividade e aprendizado contínuo
+- Trabalho em equipe
+
+---
+
+## 🌍 Idiomas
+
+- 🇧🇷 Português – Nativo  
+- 🇺🇸 Inglês – Intermediário
+
+---
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://linkedin.com/in/maycon-vyctor-dev/)
+- 💻 [GitHub](https://github.com/MayconVyctor)
+- 📧 mayconsantosfc11@gmail.com
+
+---
+
+_“Aprender nunca esgota a mente.” – Leonardo da Vinci_
+
 
 <!--
 **MayconVyctor/MayconVyctor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
