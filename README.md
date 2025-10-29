@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Maycon Vyctor Rodrigues Costa
 
-🎯 **Desenvolvedor Back-end | Golang e Python| Construindo APIs e aprendendo todos os dias**
+🎯 **Desenvolvedor Back-end | Java, Python e Golang | Construindo APIs e aprendendo todos os dias**
 
 ---
 
@@ -8,7 +8,7 @@
 
 Sou um desenvolvedor back-end que fez transição de carreira após atuar como vendedor/atendente, onde desenvolvi fortes habilidades de **comunicação** e **resolução de problemas**.
 
-Hoje, foco em desenvolver **APIs RESTful** utilizando **Golang** e aplicaçoes em Python, com atenção às boas práticas, performance e organização do código.
+Hoje, foco em desenvolver **APIs RESTful** utilizando **Java** **Golang** e aplicaçoes em Python, com atenção às boas práticas, performance e organização do código.
 
 Busco minha primeira oportunidade como **Desenvolvedor Back-end Júnior**, para crescer e contribuir com projetos relevantes.
 
@@ -19,12 +19,13 @@ Busco minha primeira oportunidade como **Desenvolvedor Back-end Júnior**, para 
 **Linguagens:**
 - Go (Golang)
 - Python
+- Java
 
 **Frameworks e Ferramentas:**
 - Gin
 - PostgreSQL
 - Docker
-- DBeaver
+- SQLite
 - Git & GitHub
 
 ---
