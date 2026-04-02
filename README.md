@@ -36,4 +36,4 @@ Atualmente, dedico-me ao desenvolvimento de APIs RESTful e à integração de mo
 
 ### 💡 Soft Skills
 
-* Raciocínio Lógico, Trabalho em Equipe, Capacidade de Aprendizagem,Resolução de Problemas Complexos.
+* Raciocínio Lógico, Trabalho em Equipe, Capacidade de Aprendizagem, Comunicação, Resolução de Problemas Complexos.
