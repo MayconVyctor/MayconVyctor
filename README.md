@@ -1,88 +1,39 @@
-# 👋 Olá, eu sou Maycon Vyctor Rodrigues Costa
+# 👋 Olá, eu sou Maycon Vyctor
 
-🎯 **Desenvolvedor Back-end | Java, Python e Golang | Construindo APIs e aprendendo todos os dias**
+### 🎯 Desenvolvedor Backend | Java, Python & Go
+**Engenheiro de Software em formação pela Jala University**
 
----
+Sou um desenvolvedor focado em construir sistemas escaláveis e automações inteligentes. Minha trajetória começou no setor comercial, onde refinei habilidades de **resolução de problemas e comunicação**, que hoje aplico para entender requisitos de negócio e transformá-los em código eficiente.
 
-## 🧑‍💻 Sobre mim
-
-Sou um desenvolvedor back-end que fez transição de carreira após atuar como vendedor/atendente, onde desenvolvi fortes habilidades de **comunicação** e **resolução de problemas**.
-
-Hoje, foco em desenvolver **APIs RESTful** utilizando **Java** **Golang** e aplicaçoes em Python, com atenção às boas práticas, performance e organização do código.
-
-Busco minha primeira oportunidade como **Desenvolvedor Back-end Júnior**, para crescer e contribuir com projetos relevantes.
+Atualmente, dedico-me ao desenvolvimento de APIs RESTful e à integração de modelos de IA para otimização de processos.
 
 ---
 
-## 🚀 Tecnologias
+### 🚀 Tecnologias & Ferramentas
 
-**Linguagens:**
-- Go (Golang)
-- Python
-- Java
-
-**Frameworks e Ferramentas:**
-- Gin
-- PostgreSQL
-- Docker
-- SQLite
-- Git & GitHub
+* **Linguagens:** Java (POO/SpringBoot), Python (POO/Django), Go (Golang).
+* **Bancos de Dados:** PostgreSQL, MySQL, SQL Server e MongoDB (NoSQL).
+* **DevOps & Tools:** Docker, Maven, Git/GitLab e Linux (Bash).
+* **Frontend:** HTML5, CSS3, JavaScript, React e Bootstrap.
 
 ---
 
-## 📂 Projetos
+### 📂 Projetos em Destaque
 
-### 🔹 [API Products](https://github.com/MayconVyctor/API-products)  
-> API RESTful para gerenciamento de produtos, desenvolvida com **Golang**, **Gin**, **PostgreSQL** e **Docker**.  
-> Possui rotas completas para operações CRUD e controle de estoque.
-
----
-
-## 📘 Certificações
-
-- `Golang do Zero` – Comunidade Dev Completo   
-- `Git & GitHub Completo` – Comunidade Dev Completo
+* **🤖 SmartInput AI:** Automação em Python que utiliza APIs de Inteligência Artificial para processar dados não estruturados e persistir resultados em bancos PostgreSQL.
+* **✅ Java Task Manager:** Sistema de gerenciamento de tarefas desenvolvido com Java, Bootstrap e PostgreSQL, aplicando padrões de projeto e arquitetura limpa.
+* **📦 API Products (Go):** API de alta performance desenvolvida em Golang com Gin e Docker para controle de estoque em tempo real.
 
 ---
 
-## 💡 Soft Skills
+### 📘 Educação & Certificações
 
-- Boa comunicação
-- Raciocínio lógico e resolução de problemas
-- Proatividade e aprendizado contínuo
-- Trabalho em equipe
-
----
-
-## 🌍 Idiomas
-
-- 🇧🇷 Português – Nativo  
-- 🇺🇸 Inglês – Intermediário
+* **Bacharelado em Engenharia de Software** – Jala University (Julho 2025 – 2029).
+* **Capacitação em Desenvolvimento Backend Python** – CEPEDI (Agosto 2025 – Julho 2026).
+* **Formação Go (Golang) & Git/GitHub** – Comunidade Dev Completo.
 
 ---
 
-## 📫 Contato
+### 💡 Soft Skills
 
-- 💼 [LinkedIn](https://linkedin.com/in/maycon-vyctor-dev/)
-- 💻 [GitHub](https://github.com/MayconVyctor)
-- 📧 mayconsantosfc11@gmail.com
-
----
-
-_“Aprender nunca esgota a mente.” – Leonardo da Vinci_
-
-
-<!--
-**MayconVyctor/MayconVyctor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Raciocínio Lógico, Trabalho em Equipe, Capacidade de Aprendizagem,Resolução de Problemas Complexos.
