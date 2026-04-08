@@ -21,7 +21,7 @@ Atualmente, dedico-me ao desenvolvimento de APIs RESTful e à integração de mo
 ### 📂 Projetos em Destaque
 
 * **🤖 SmartInput AI:** Automação em Python que utiliza APIs de Inteligência Artificial para processar dados não estruturados e persistir resultados em bancos PostgreSQL.
-* **✅ Java FullStack ToDoList:** Sistema de gerenciamento de tarefas desenvolvido com Java, Bootstrap e PostgreSQL, aplicando padrões de projeto e arquitetura limpa.
+* **✅ Java FullStack ToDoList:** Sistema de gerenciamento de tarefas desenvolvido com Java, JavaScript e React e PostgreSQL, aplicando padrões de projeto e arquitetura limpa.
 * **📦 API Products (Go):** API de alta performance desenvolvida em Golang com Gin e Docker para controle de estoque em tempo real.
 
 ---
