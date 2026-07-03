@@ -8,7 +8,7 @@
 
 - 🎓 Graduando em Engenharia de Software pela **Jala University** (Julho 2025 – 2029)
 - 🚀 Capacitação em Desenvolvimento Backend Python pelo **CEPEDI** (Agosto 2025 – Julho 2026)
-- 📫 Contato:
+- 📫 Contato: mayconsantosfc11@gmail.com
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@provedor.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
