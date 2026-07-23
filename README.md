@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=100&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=header" width="100%" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=4000&pause=10000&color=00ADD8&width=435&lines=Hello+World!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=00ADD8&width=435&lines=Sobre+mim%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=4000&pause=10000&color=8B5CF6&width=435&lines=Hello+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=8B5CF6&width=435&lines=Sobre+mim%3A)](https://git.io/typing-svg)
 
 Sou um desenvolvedor **Backend** focado em construir sistemas escaláveis e automações inteligentes com **Java, Python e Go**. Minha trajetória começou no setor comercial, onde refinei habilidades de resolução de problemas e comunicação, que hoje aplico para entender requisitos de negócio e transformá-los em código eficiente. Atualmente, dedico-me ao desenvolvimento de APIs RESTful e à integração de modelos de IA para otimização de processos.
 
@@ -13,7 +13,7 @@ Sou um desenvolvedor **Backend** focado em construir sistemas escaláveis e auto
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3900&pause=10000&color=00ADD8&width=435&lines=Tecnologias+e+Stack%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3900&pause=10000&color=8B5CF6&width=435&lines=Tecnologias+e+Stack%3A)](https://git.io/typing-svg)
 
 <div align="center"><br>
 
@@ -33,7 +33,7 @@ Sou um desenvolvedor **Backend** focado em construir sistemas escaláveis e auto
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=00ADD8&width=435&lines=Projetos+em+Destaque%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=8B5CF6&width=435&lines=Projetos+em+Destaque%3A)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -47,23 +47,23 @@ Sou um desenvolvedor **Backend** focado em construir sistemas escaláveis e auto
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=00ADD8&width=435&lines=Minhas+Redes%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=8B5CF6&width=435&lines=Minhas+Redes%3A)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="mailto:mayconsantosfc11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=00ADD8&labelColor=0f0f1a" alt="E-mail" />
+    <img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=8B5CF6&labelColor=0f0f1a" alt="E-mail" />
   </a>
   <a href="https://www.linkedin.com/in/maycon-vyctor-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=00ADD8&labelColor=0f0f1a" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=8B5CF6&labelColor=0f0f1a" alt="LinkedIn" />
   </a>
   <a href="https://github.com/MayconVyctor" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=00ADD8&labelColor=0f0f1a" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=8B5CF6&labelColor=0f0f1a" alt="GitHub" />
   </a>
 </div>
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=00ADD8&width=435&lines=GitHub+Stats%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=8B5CF6&width=435&lines=GitHub+Stats%3A)](https://git.io/typing-svg)
 
 <div align="center">
   <table>
@@ -85,5 +85,5 @@ Sou um desenvolvedor **Backend** focado em construir sistemas escaláveis e auto
 ##
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=70&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=70&section=footer" width="100%" />
 </div>
