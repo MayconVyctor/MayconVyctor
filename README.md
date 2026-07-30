@@ -39,9 +39,9 @@ Sou um desenvolvedor **Backend** focado em construir sistemas escaláveis e auto
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🤖 [SmartInput AI](https://github.com/MayconVyctor/SEU-REPO-AQUI) | Automação em Python que utiliza APIs de IA para processar dados não estruturados e persistir resultados em PostgreSQL | `Python` `IA` `PostgreSQL` |
-| ✅ [Java FullStack ToDoList](https://github.com/MayconVyctor/SEU-REPO-AQUI) | Sistema de gerenciamento de tarefas com Java, JavaScript, React e PostgreSQL, aplicando padrões de projeto e arquitetura limpa | `Java` `React` `PostgreSQL` |
-| 📦 [API Products (Go)](https://github.com/MayconVyctor/SEU-REPO-AQUI) | API de alta performance em Golang com Gin e Docker para controle de estoque em tempo real | `Go` `Gin` `Docker` |
+| 🤖 [SmartInput AI](https://github.com/MayconVyctor/SmartInput-AI) | Automação em Python que utiliza APIs de IA para processar dados não estruturados e persistir resultados em PostgreSQL | `Python` `IA` `PostgreSQL` |
+| ✅ [Java-Gerenciador De Tarefas](https://github.com/MayconVyctor/Java-GerenciadorDeTarefas) | Sistema de gerenciamento de tarefas com Java, JavaScript, React e PostgreSQL, aplicando padrões de projeto e arquitetura limpa | `Java` `React` `PostgreSQL` |
+| 📦 [Gerenciador de Produtos (Go)](https://github.com/MayconVyctor/Golang-GerenciadorDeProdutosAPI | API de alta performance em Golang com Gin e Docker para controle de estoque em tempo real | `Go` `Gin` `Docker` |
 
 </div>
 
