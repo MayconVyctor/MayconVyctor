@@ -13,7 +13,7 @@ Sou um desenvolvedor **Backend** focado em construir sistemas escaláveis e auto
 
 ##
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 ```java
 public class Maycon {
     String name = "Maycon Vyctor";
