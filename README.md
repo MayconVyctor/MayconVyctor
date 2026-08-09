@@ -13,11 +13,11 @@ Sou um desenvolvedor **Backend** focado em construir sistemas escaláveis e auto
 
 ##
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 
 ```java
 public class Maycon {
     String name = "Maycon Vyctor";
-    String role = "Backend Developer";
+    String role = "Desenvolvedor Backend";
     String location = "Vitoria da Conquista - BA 🇧🇷";
 
     String[] backend = {"Java", "Python", "Go"};
