@@ -13,6 +13,22 @@ Sou um desenvolvedor **Backend** focado em construir sistemas escaláveis e auto
 
 ##
 
+## 👨‍💻 About Me
+```java
+public class Maycon {
+    String name = "Maycon Vyctor";
+    String role = "Backend Developer";
+    String location = "Vitoria da Conquista - BA 🇧🇷";
+
+    String[] backend = {"Java", "Python", "Go"};
+    String[] frontend = {"React", "JavaScript"};
+    String[] database = {"PostgreSQL", "MySQL", "SQL Server", "MongoDB"};
+    String[] tools = {"Git", "GitLab", "Docker", "Maven", "Linux"};
+}
+```
+
+##
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3900&pause=10000&color=8B5CF6&width=435&lines=Tecnologias+e+Stack%3A)](https://git.io/typing-svg)
 
 <div align="center"><br>
@@ -43,22 +59,6 @@ Sou um desenvolvedor **Backend** focado em construir sistemas escaláveis e auto
 | ✅ [Java-Gerenciador De Tarefas](https://github.com/MayconVyctor/Java-GerenciadorDeTarefas) | Sistema de gerenciamento de tarefas com Java, JavaScript, React e PostgreSQL, aplicando padrões de projeto e arquitetura limpa | `Java` `React` `PostgreSQL` |
 | 📦 [Gerenciador de Produtos (Go)](https://github.com/MayconVyctor/Golang-GerenciadorDeProdutosAPI) | API de alta performance em Golang com Gin e Docker para controle de estoque em tempo real | `Go` `Gin` `Docker` |
 
-</div>
-
-##
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=8B5CF6&width=435&lines=Minhas+Redes%3A)](https://git.io/typing-svg)
-
-<div align="center">
-  <a href="mailto:mayconsantosfc11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=8B5CF6&labelColor=0f0f1a" alt="E-mail" />
-  </a>
-  <a href="https://www.linkedin.com/in/maycon-vyctor-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=8B5CF6&labelColor=0f0f1a" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/MayconVyctor" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=8B5CF6&labelColor=0f0f1a" alt="GitHub" />
-  </a>
 </div>
 
 ##
