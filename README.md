@@ -56,7 +56,7 @@ public class Maycon {
 | Projeto | Descrição | Stack |
 |---|---|---|
 | 🤖 [SmartInput AI](https://github.com/MayconVyctor/SmartInput-AI) | Automação em Python que utiliza APIs de IA para processar dados não estruturados e persistir resultados em PostgreSQL | `Python` `IA` `PostgreSQL` |
-| ✅ [Java-Gerenciador De Tarefas](https://github.com/MayconVyctor/Java-GerenciadorDeTarefas) | Sistema de gerenciamento de tarefas com Java, JavaScript, React e PostgreSQL, aplicando padrões de projeto e arquitetura limpa | `Java` `React` `PostgreSQL` |
+| ✅ [Java-TaskManager](https://github.com/MayconVyctor/Java-TaskManager) | Sistema de gerenciamento de tarefas com Java, JavaScript, React e PostgreSQL, aplicando padrões de projeto e arquitetura limpa | `Java` `React` `PostgreSQL` |
 | 📦 [Product Manage API Go)](https://github.com/MayconVyctor/Golang-ProductManagerAPI) | API de alta performance em Golang com Gin e Docker para controle de estoque em tempo real | `Go` `Gin` `Docker` |
 
 </div>
