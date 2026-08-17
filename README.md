@@ -59,27 +59,12 @@ public class Maycon {
 | ✅ [Java-TaskManager](https://github.com/MayconVyctor/Java-TaskManager) | Sistema de gerenciamento de tarefas com Java, JavaScript, React e PostgreSQL, aplicando padrões de projeto e arquitetura limpa | `Java` `React` `PostgreSQL` |
 | 📦 [Product Manage API Go)](https://github.com/MayconVyctor/Golang-ProductManagerAPI) | API de alta performance em Golang com Gin e Docker para controle de estoque em tempo real | `Go` `Gin` `Docker` |
 
-</div>
+div align="center">
 
-##
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MayconVyctor&rank_icon=github&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github.com/MayconVyctor)
+<br/><br/>
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=MayconVyctor&langs_count=6&layout=compact&theme=blue_navy)](https://github.com/MayconVyctor)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=8B5CF6&width=435&lines=GitHub+Stats%3A)](https://git.io/typing-svg)
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github-stats-extended.vercel.app/api?username=MayconVyctor&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight">
-          <img src="https://github-stats-extended.vercel.app/api?username=MayconVyctor&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github-stats-extended.vercel.app/api/top-langs?username=MayconVyctor&langs_count=6&hide_values=true&theme=tokyonight">
-          <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MayconVyctor&langs_count=6&hide_values=true&theme=tokyonight" alt="Top Langs" />
-        </a>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ##
