@@ -58,7 +58,6 @@ public class Maycon {
 | ✅ [Java-TaskManager](https://github.com/MayconVyctor/Java-TaskManager) | Sistema de gerenciamento de tarefas com Java, JavaScript, React e PostgreSQL, aplicando padrões de projeto e arquitetura limpa | `Java` `React` `PostgreSQL` |
 | 📦 [Product Manage API Go)](https://github.com/MayconVyctor/Golang-ProductManagerAPI) | API de alta performance em Golang com Gin e Docker para controle de estoque em tempo real | `Go` `Gin` `Docker` |
 
-div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MayconVyctor&rank_icon=github&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github.com/MayconVyctor)
 <br/><br/>
