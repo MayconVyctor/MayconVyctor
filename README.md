@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=4000&pause=10000&color=8B5CF6&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=8B5CF6&width=435&lines=Sobre+mim%3A)](https://git.io/typing-svg)
 
-Sou um desenvolvedor **Backend** focado em construir sistemas escaláveis e automações inteligentes com **Java, Python e Go**. Minha trajetória começou no setor comercial, onde refinei habilidades de resolução de problemas e comunicação, que hoje aplico para entender requisitos de negócio e transformá-los em código eficiente. Atualmente, dedico-me ao desenvolvimento de APIs RESTful e à integração de modelos de IA para otimização de processos.
+Sou um desenvolvedor de **Software** focado em construir sistemas escaláveis e automações inteligentes com **Java, Python e Go**. Minha trajetória começou no setor comercial, onde refinei habilidades de resolução de problemas e comunicação, que hoje aplico para entender requisitos de negócio e transformá-los em código eficiente. Atualmente, dedico-me ao desenvolvimento de APIs RESTful e à integração de modelos de IA para otimização de processos.
 
 - 🎓 **Formação:** Graduando em Engenharia de Software Comercial pela Jala University (Julho 2025 – 2029)
 - 🚀 **Capacitação:** Desenvolvimento Backend Python pelo CEPEDI (Agosto 2025 – Julho 2026)
