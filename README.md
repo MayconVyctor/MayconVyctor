@@ -34,13 +34,13 @@ public class Developer {
 <div align="center"><br>
 
 ### 💻 Linguagens
-[![My Skills](https://skillicons.dev/icons?i=java,py,go,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,py,go,js)](https://skillicons.dev)
 
 ### ⚙️ Frameworks & Libs
-[![My Skills](https://skillicons.dev/icons?i=spring,django,react,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,django,react,angular)](https://skillicons.dev)
 
 ### 🗄️ Bancos de Dados
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mssql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
 ### 🔧 DevOps & Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=docker,maven,git,gitlab,linux)](https://skillicons.dev)
