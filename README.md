@@ -65,6 +65,16 @@ public class Developer {
 
 </div>
 
+<br>
+
+### Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MayconVyctor&hide_border=true&background=0D1117&ring=9b5de5&fire=9b5de5&currStreakNum=FFFFFF&currStreakLabel=9b5de5&sideNums=FFFFFF&sideLabels=9b5de5&dates=A084E8&locale=pt_BR" />
+</div>
+
+<br>
+
 ##
 
 <div align="center">
