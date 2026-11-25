@@ -18,7 +18,7 @@ Sou um desenvolvedor de **Software** focado em construir sistemas escaláveis e 
 public class Developer {
     String name = "Maycon Vyctor";
     String role = "Desenvolvedor Backend";
-    String location = "Vitoria da Conquista - BA 🇧🇷";
+    String location = "Vitoria da Conquista - BA ";
 
     String[] backend = {"Java", ".NET", "Python", "Go"};
     String[] frontend = {"React", "Angular", "JavaScript"};
